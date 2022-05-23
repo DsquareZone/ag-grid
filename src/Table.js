@@ -5,7 +5,7 @@ import "ag-grid-community/dist/styles/ag-theme-alpine.css";
 import "ag-grid-community/dist/styles/ag-grid.css";
 export const Table = () => {
   const data = [
-    { name: "Raj", age: 20 },
+    { name: "Raja", age: 20 },
     { name: "Arun", age: 24 },
     { name: "Raja", age: 23 }
   ];
